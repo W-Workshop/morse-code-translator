@@ -11,7 +11,7 @@ This web application translates text to Morse code and vice versa, offering a di
 
 
 <p align="center">
-<a href="https://projectsolutus.github.io/morse-code-translator/">Live Demo</a>
+<a href="https://thegandabherunda.github.io/morse-code-translator/">Live Demo</a>
 </p>
 
 # About
